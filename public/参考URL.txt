@@ -1,0 +1,17 @@
+
+Post 画面遷移
+https://akizora.tech/vue-send-query-parameter-1981
+https://qiita.com/Engineer_Grotle/items/66d181309a779ce8a34a
+
+認証認可
+https://shell-mag.com/webapp-67/
+
+JWT for Spring Security
+https://zenn.dev/misaka/books/9734700544990d/viewer/4f8a99
+
+
+// JWT無効化の方法 - Token Black Listをバックエンドで保持してIn memoryに保存する方法は正しいのか？(リソース消費するから良くない！？)
+https://medium.com/spring-boot/invalidate-revoked-the-jwt-force-logout-the-user-from-spring-security-a20ef3a2a928
+
+// Vue側のみでJWTを削除する方法 - JWTの認証で無効なもの、有効なものの判断はどこで行うべきかという疑問（適当なトークンでも許可されてしまう）
+https://howtodoinjava.com/spring-security/jwt-auth-vuejs-spring-boot-security/
